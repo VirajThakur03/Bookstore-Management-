@@ -34,3 +34,5 @@ Book-Store-main/
 │ ├── css/
 │ ├── images/
 │ └── js/
+
+<pre lang="markdown"> ```bash Book-Store-main/ └── BookStore/ ├── About.php ├── bill.php ├── conn.php ├── connect.php ├── contact.php ├── index.php ├── login.php ├── logout.php ├── Register.php ├── shop_db.sql ├── css/ │ └── style.css ├── images/ │ └── (image files) └── js/ └── (JavaScript files) ``` </pre>
