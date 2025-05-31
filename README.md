@@ -35,3 +35,35 @@ Book-Store-main/
 │ ├── images/
 │ └── js/
 
+## 🛠️ Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
+
+---
+
+## ⚙️ Setup Instructions
+
+1. 📥 Extract the folder `BookStore/` and place it in your XAMPP `htdocs/` directory.
+2. 🛠 Import the `shop_db.sql` file into your MySQL database via phpMyAdmin.
+3. 🖊 Update database credentials in `conn.php` and `connect.php` if needed.
+4. ▶️ Run your Apache and MySQL servers via XAMPP.
+5. 🌐 Open a browser and go to `http://localhost/BookStore/index.php`.
+
+---
+
+## 🧪 Sample User Credentials (Optional)
+
+```text
+Username: testuser
+Password: 1234
+
+```
+## 📌 Notes
+This is a beginner-level educational project.
+
+Admin features may need additional development.
+
+## 📜 License
+This project is for academic and educational use only.
